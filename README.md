@@ -5,4 +5,3 @@ Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el 
 
 Incluid debajo el nombre de los miembros del grupo:
 
-![image](https://github.com/user-attachments/assets/be4db69b-090a-4e6f-b5d1-80d4f23ada72)
