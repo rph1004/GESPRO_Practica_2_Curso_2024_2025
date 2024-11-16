@@ -14,7 +14,7 @@ Rodrigo Portugal Hortigüela y Adrián Carrera Calzada
 
 ## 2.Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub.
 
-El primer requisito es crear una cuenta de Github asociada al correo de nuestra universidad.
+**El primer requisito es crear una cuenta de Github asociada al correo de nuestra universidad.**
      - Después, debemos acudir al repositorio indicado del profesor (https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025) y pulsar el botón fork ![image](https://github.com/user-attachments/assets/91742394-ce71-4dd5-8890-be116edb3967), aquí habremos creado una copia de su repositorio para que nosotros la podamos modificar.
      - Lo siguiente que debemos hacer es pulsar el botón settings en nuestro repositorio ![image](https://github.com/user-attachments/assets/f8d78a65-2c81-41e4-b594-f6916693e58c) y habilitar la opción de issues ![image](https://github.com/user-attachments/assets/6b53f4a4-8eaa-4e0f-be27-3ce9fa5f5139). Esto nos permitirá trabajar con la extensión de Zenhub con la que vamos a trabajar.
      - A continuación, debemos buscar en el buscador de Google Chrome "Zenhub chrome extension", seleccionar la búsqueda de la chrome web store y pulsar en instalar Zenhub ![image](https://github.com/user-attachments/assets/89f02179-4e7e-423e-8fe1-2394881464bb) (a nosotros nos aparece desinstalar al tenerla ya descargada).
@@ -22,8 +22,7 @@ El primer requisito es crear una cuenta de Github asociada al correo de nuestra 
      - Al entrar en Zenhub, nos pedirá registrarnos, y tendremos que vincular nuestra cuenta de Github para que estas dos puedan trabajar juntas.
      - Una vez hayamos entrado, nos pedirá unirnos a una organización. Para el miembro que se une por primera vez esto puede ser un pequeño problema, ya que no deja crear directamente la organización, y nos uniremos a la organización que tiene el profesor creada para posteriormente abandonarla y crear otra donde trabajaremos con los miembros de nuestro equipo. Si eres un miembro que sigue estos pasos después del líder, la organización debería estar creada y disponible para unirse.
      - Para crear la organización, debemos seleccionar en el desplegable de la parte superior izquierda ![image](https://github.com/user-attachments/assets/6658187f-ba6e-4d97-b307-b19e9050b1f0) 
-     > [!CAUTION]
-> Muy importante asegurarse de que aparezca nuestro nombre en la página, ya que sino podríamos estar trabajando desde la organización de otra persona.
+       > Muy importante asegurarse de que aparezca nuestro nombre en la página, ya que sino podríamos estar trabajando desde la organización de otra persona.
     Después debemos seleccionar "Create new workspace"  [image](https://github.com/user-attachments/assets/5391a7f5-f101-43ec-adf9-b9323ecc2b57) y darle un nombre, una descripción, seleccionar la privacidad, añadir tu repositorio de GitHub y añadir a los miembros de tu equipo para que puedan colaborar en vuestro espacio de trabajo. ![image](https://github.com/user-attachments/assets/0e0f51e1-ce27-4676-be53-881637f353c4)
       - Una vez creado todo, os enseñaremos las nociones básicas de trabajo con ZenHub (es muy importante que no trabajeis desde la página de ZenHub, sino desde la extensión de GitHub, para poder guardar todo nuestro trabajo).
       - Para empezar, crearemos una tarea en el botón superior a la derecha "+ Create" ![image](https://github.com/user-attachments/assets/f72a3b79-9a42-4f33-933f-6bf96805b934). Seleccionamos la primera opción siempre, "Github Issue" y se nos desplegará un menú de opciones para nuestra tarea.
