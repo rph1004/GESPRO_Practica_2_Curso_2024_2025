@@ -31,7 +31,7 @@ Rodrigo Portugal Hortigüela y Adrián Carrera Calzada
 
 2.1 Filtro por Epics, US y Tasks en la columna de New Issues:
 
-Para filtrar por etiquetas debemos poner en el filtrador, label: seguido de la etiqueta que queramos filtrar.
+Para filtrar por etiquetas desde GitHub debemos poner en el filtrador, label: seguido de la etiqueta que queramos filtrar.
 
 - Type: Task
 
@@ -45,7 +45,8 @@ Para filtrar por etiquetas debemos poner en el filtrador, label: seguido de la e
 
   ![epic](https://github.com/user-attachments/assets/b5417f45-667c-4377-bb36-1d566917f407)
 
-
+En segundo lugar para filtrar por etiquetas desde ZenHub hay que pulsar en el siguiente despegable y a contiunacón indicar la etiqueta por la que quieres filtrar.
+  
 
 
 
