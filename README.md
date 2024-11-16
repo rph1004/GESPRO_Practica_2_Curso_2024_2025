@@ -33,11 +33,17 @@ Rodrigo Portugal Hortigüela y Adrián Carrera Calzada
 
 Para filtrar por etiquetas debemos poner en el filtrador, label: seguido de la etiqueta que queramos filtrar.
 
-- Type: Task ![task](https://github.com/user-attachments/assets/3ac78aa6-a61a-4ff8-87d9-26d24f37f5b0)
+- Type: Task
 
-- Type: User story ![user story](https://github.com/user-attachments/assets/8b3cbfa3-d8f3-4743-975c-a4b06ca8e303)
+  ![task](https://github.com/user-attachments/assets/3ac78aa6-a61a-4ff8-87d9-26d24f37f5b0)
 
-- Type: Epic ![epic](https://github.com/user-attachments/assets/b5417f45-667c-4377-bb36-1d566917f407)
+- Type: User story
+
+  ![user story](https://github.com/user-attachments/assets/8b3cbfa3-d8f3-4743-975c-a4b06ca8e303)
+
+- Type: Epic
+
+  ![epic](https://github.com/user-attachments/assets/b5417f45-667c-4377-bb36-1d566917f407)
 
 
 
