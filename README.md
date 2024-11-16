@@ -5,5 +5,9 @@ Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el 
 
 Incluid debajo el nombre de los miembros del grupo:
 Rodrigo Portugal Hortigüela y Adrián Carrera Calzada
-Rodrigo Portugal Hortigüela y Adrián Carrera Calzada
+
+1. Url de GitHub al repositorio de proyectos GitHub del grupo en el que se realizó la gestión y planificación de tareas propuesta en la práctica.
+- https://github.com/rph1004/GESPRO_Practica_2_Curso_2024_2025
+
+  
 
