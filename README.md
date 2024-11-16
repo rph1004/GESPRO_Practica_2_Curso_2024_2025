@@ -48,6 +48,18 @@ Para filtrar por etiquetas desde GitHub debemos poner en el filtrador, label: se
 En segundo lugar para filtrar por etiquetas desde ZenHub hay que pulsar en el siguiente despegable y a contiunacón indicar la etiqueta por la que quieres filtrar.
  ![image](https://github.com/user-attachments/assets/d6d35935-9cf7-4faf-9951-316628059855)
 
+-Type:Task
+  ![task2](https://github.com/user-attachments/assets/04b6523c-8a46-4437-a8ed-ec63b8c79f9b)
+
+-Type: User story
+  ![userstory](https://github.com/user-attachments/assets/a905d32d-8cd2-4848-a294-b447d1ea2da5)
+
+-Type: Epic
+  ![Epic2](https://github.com/user-attachments/assets/64f28405-59c2-404c-b2af-35eca4ff1a86)
+
+
+
+
 
 Tareas de 1er Release en el Sprint Backlog
 ![image](https://github.com/user-attachments/assets/73d6d1c8-a2f2-4f42-ac31-1cf3e8d20c13)
