@@ -6,13 +6,13 @@ Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el 
 Incluid debajo el nombre de los miembros del grupo:
 Rodrigo Portugal Hortigüela y Adrián Carrera Calzada
 
-1. Url de GitHub al repositorio de proyectos GitHub del grupo en el que se realizó la gestión y planificación de tareas propuesta en la práctica.
+## 1. Url de GitHub al repositorio de proyectos GitHub del grupo en el que se realizó la gestión y planificación de tareas propuesta en la práctica.
 - https://github.com/rph1004/GESPRO_Practica_2_Curso_2024_2025
 
 - Asegurarse que el gestor de tareas está configurado para poder ser accesible por personas ajenas al equipo
   ![image](https://github.com/user-attachments/assets/133b2bae-9788-4e9d-85d9-f38ededa3788)
 
-2. Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub.
+##2. Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub.
      - El primer requisito es crear una cuenta de Github asociada al correo de nuestra universidad.
      - Después, debemos acudir al repositorio indicado del profesor (https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025) y pulsar el botón fork ![image](https://github.com/user-attachments/assets/91742394-ce71-4dd5-8890-be116edb3967), aquí habremos creado una copia de su repositorio para que nosotros la podamos modificar.
      - Lo siguiente que debemos hacer es pulsar el botón settings en nuestro repositorio ![image](https://github.com/user-attachments/assets/f8d78a65-2c81-41e4-b594-f6916693e58c) y habilitar la opción de issues ![image](https://github.com/user-attachments/assets/6b53f4a4-8eaa-4e0f-be27-3ce9fa5f5139). Esto nos permitirá trabajar con la extensión de Zenhub con la que vamos a trabajar.
@@ -29,7 +29,7 @@ Rodrigo Portugal Hortigüela y Adrián Carrera Calzada
       - Ya que estamos en la pestaña issues, aprenderemos desde aquí a crear una Milestone o Hito. Seleccionaremos "New milestone" ![image](https://github.com/user-attachments/assets/9f2aaac3-35e7-47f2-84d7-263bf1be93e5) y le daremos nuestra forma con el nombre de hito, la fecha y una pequeña descripción del mismo. Una vez hecho seleccionaremos Create milestone. ![image](https://github.com/user-attachments/assets/7f4fe6ad-29b3-4622-b346-5eaa0321a359)
       - Por último, volveremos a la creación de la tarea para asignarle una complejidad en "Estimate". Una vez agregadas estas tres opciones tendremos creada nuestra tarea.
 
-2.1 Filtro por Epics, US y Tasks en la columna de New Issues:
+## 2.1 Filtro por Epics, US y Tasks en la columna de New Issues:
 
 Para filtrar por etiquetas desde GitHub debemos poner en el filtrador, label: seguido de la etiqueta que queramos filtrar.
 
@@ -64,7 +64,7 @@ En segundo lugar para filtrar por etiquetas desde ZenHub hay que pulsar en el si
 
 
 
-2.2 Tareas de 1er Release en el Sprint Backlog
+## 2.2 Tareas de 1er Release en el Sprint Backlog
 Primero las debemos de poner en Product Backlog
 
   ![image](https://github.com/user-attachments/assets/a769ecbf-fa2f-42f8-b158-045d663f9757)
@@ -73,13 +73,13 @@ Y a continuación las añadimos en Sprint Backlog
 
   ![image](https://github.com/user-attachments/assets/73d6d1c8-a2f2-4f42-ac31-1cf3e8d20c13)
 
-2.3 Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS)
+## 2.3 Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS)
 
 En este apartado debemos añadir algunas tareas en in progress, otras review, y las más adelantadas en done, para que se vea el proceso que siguen las tareas en un proyecto.
 
   ![image](https://github.com/user-attachments/assets/3f983f86-7881-437c-ba09-9f83cbe373f1)
 
-2.4 Cierre de 1er Release
+## 2.4 Cierre de 1er Release
 
 Por último llevamos todas la tareas del release 1 a closed, lo cual significa que todas las tareas del release 1 han sido cerradas y por lo tanto terminadas.
 
@@ -95,14 +95,17 @@ desde issues
   ![image](https://github.com/user-attachments/assets/a16b5ff0-be97-4e7c-b415-4bdc26b321e1)
 
 
-2 RELEASE 
+## 2.5 Comienzo de la 2da Release 
 ![image](https://github.com/user-attachments/assets/b930f2a5-ddde-49e6-b9d7-748958d3c410)
 
-algunas tareas en in progress, otras review, y las más adelantadas en done, para que se vea el proceso que siguen las tareas en un proyecto.
+## 2.6 Tareas de la 2da Release en progreso y fiiltradas por algún topic
+Algunas tareas en in progress, otras review, y las más adelantadas en done, para que se vea el proceso que siguen las tareas en un proyecto.
 ![image](https://github.com/user-attachments/assets/6572c22b-1d44-449c-8710-0370e1cfefa0)
 
 Filtradas por Topic:setup
 ![image](https://github.com/user-attachments/assets/c46e499a-f005-4962-81ba-23512c54c2e3)
+
+## 2.7 Imagen de conversación en dos tareas
 
 
 
