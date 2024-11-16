@@ -12,7 +12,7 @@ Rodrigo Portugal Hortigüela y Adrián Carrera Calzada
 - Asegurarse que el gestor de tareas está configurado para poder ser accesible por personas ajenas al equipo
   ![image](https://github.com/user-attachments/assets/133b2bae-9788-4e9d-85d9-f38ededa3788)
 
-##2. Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub.
+## 2. Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub.
      - El primer requisito es crear una cuenta de Github asociada al correo de nuestra universidad.
      - Después, debemos acudir al repositorio indicado del profesor (https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025) y pulsar el botón fork ![image](https://github.com/user-attachments/assets/91742394-ce71-4dd5-8890-be116edb3967), aquí habremos creado una copia de su repositorio para que nosotros la podamos modificar.
      - Lo siguiente que debemos hacer es pulsar el botón settings en nuestro repositorio ![image](https://github.com/user-attachments/assets/f8d78a65-2c81-41e4-b594-f6916693e58c) y habilitar la opción de issues ![image](https://github.com/user-attachments/assets/6b53f4a4-8eaa-4e0f-be27-3ce9fa5f5139). Esto nos permitirá trabajar con la extensión de Zenhub con la que vamos a trabajar.
