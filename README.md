@@ -64,22 +64,21 @@ En segundo lugar para filtrar por etiquetas desde ZenHub hay que pulsar en el si
 
 
 
-Tareas de 1er Release en el Sprint Backlog
+2.2 Tareas de 1er Release en el Sprint Backlog
 Primero las debemos de poner en Product Backlog
 ![image](https://github.com/user-attachments/assets/a769ecbf-fa2f-42f8-b158-045d663f9757)
 
-Y después en Sprint Backlog
+Y a continuación las añadimos en Sprint Backlog
 ![image](https://github.com/user-attachments/assets/73d6d1c8-a2f2-4f42-ac31-1cf3e8d20c13)
 
+2.3 Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS)
 
-In progress
-![image](https://github.com/user-attachments/assets/7e744865-304a-4767-a707-9a74f7c7cd25)
-
-
-Algunos en progress y otros en review y otros en done
+En este apartado debemos añadir algunas tareas en in progress, otras review, y las más adelantadas en done, para que se vea el proceso que siguen las tareas en un proyecto.
 ![image](https://github.com/user-attachments/assets/3f983f86-7881-437c-ba09-9f83cbe373f1)
 
-1 er release done 
+2.4 Cierre de 1er Release
+
+Por último llevamos todas la tareas del release 1 a closed, lo cual significa que todas las tareas del release 1 han sido cerradas y por lo tanto terminadas.
 ![image](https://github.com/user-attachments/assets/4517455f-aa31-4210-bbbb-620f8b748115)
 
 Closed
