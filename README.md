@@ -49,12 +49,15 @@ En segundo lugar para filtrar por etiquetas desde ZenHub hay que pulsar en el si
  ![image](https://github.com/user-attachments/assets/d6d35935-9cf7-4faf-9951-316628059855)
 
 -Type:Task
+
   ![task2](https://github.com/user-attachments/assets/04b6523c-8a46-4437-a8ed-ec63b8c79f9b)
 
 -Type: User story
+
   ![userstory](https://github.com/user-attachments/assets/a905d32d-8cd2-4848-a294-b447d1ea2da5)
 
 -Type: Epic
+
   ![Epic2](https://github.com/user-attachments/assets/64f28405-59c2-404c-b2af-35eca4ff1a86)
 
 
