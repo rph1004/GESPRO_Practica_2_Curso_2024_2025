@@ -95,6 +95,14 @@ desde issues
   ![image](https://github.com/user-attachments/assets/a16b5ff0-be97-4e7c-b415-4bdc26b321e1)
 
 
+2 RELEASE 
+![image](https://github.com/user-attachments/assets/b930f2a5-ddde-49e6-b9d7-748958d3c410)
+
+algunas tareas en in progress, otras review, y las más adelantadas en done, para que se vea el proceso que siguen las tareas en un proyecto.
+![image](https://github.com/user-attachments/assets/6572c22b-1d44-449c-8710-0370e1cfefa0)
+
+Filtradas por Topic:setup
+![image](https://github.com/user-attachments/assets/c46e499a-f005-4962-81ba-23512c54c2e3)
 
 
 
