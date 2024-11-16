@@ -65,6 +65,10 @@ En segundo lugar para filtrar por etiquetas desde ZenHub hay que pulsar en el si
 
 
 Tareas de 1er Release en el Sprint Backlog
+Primero las debemos de poner en Product Backlog
+![image](https://github.com/user-attachments/assets/a769ecbf-fa2f-42f8-b158-045d663f9757)
+
+Y después en Sprint Backlog
 ![image](https://github.com/user-attachments/assets/73d6d1c8-a2f2-4f42-ac31-1cf3e8d20c13)
 
 
