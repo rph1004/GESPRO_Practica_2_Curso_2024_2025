@@ -46,7 +46,8 @@ Para filtrar por etiquetas desde GitHub debemos poner en el filtrador, label: se
   ![epic](https://github.com/user-attachments/assets/b5417f45-667c-4377-bb36-1d566917f407)
 
 En segundo lugar para filtrar por etiquetas desde ZenHub hay que pulsar en el siguiente despegable y a contiunacón indicar la etiqueta por la que quieres filtrar.
-  
+ ![image](https://github.com/user-attachments/assets/d6d35935-9cf7-4faf-9951-316628059855)
+ 
 
 
 
