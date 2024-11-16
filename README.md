@@ -5,5 +5,5 @@ Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el 
 
 Incluid debajo el nombre de los miembros del grupo:
 Rodrigo Portugal Hortigüela y Adrián Carrera Calzada
-
+Rodrigo Portugal Hortigüela y Adrián Carrera Calzada
 
