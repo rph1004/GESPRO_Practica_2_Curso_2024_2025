@@ -71,18 +71,18 @@ Para filtrar por etiquetas desde GitHub debemos poner en el filtrador, label: se
 
   ![epic](https://github.com/user-attachments/assets/b5417f45-667c-4377-bb36-1d566917f407)
 
-En segundo lugar para filtrar por etiquetas desde ZenHub hay que pulsar en el siguiente despegable y a contiunacón indicar la etiqueta por la que quieres filtrar.
+También existe la opciópn para filtrar por etiquetas desde ZenHub, donde hay que pulsar en el siguiente despegable y a contiunacón indicar la etiqueta por la que quieres filtrar.
  ![image](https://github.com/user-attachments/assets/d6d35935-9cf7-4faf-9951-316628059855)
 
--Type:Task
+- Type:Task
 
   ![task2](https://github.com/user-attachments/assets/04b6523c-8a46-4437-a8ed-ec63b8c79f9b)
 
--Type: User story
+- Type: User story
 
   ![userstory](https://github.com/user-attachments/assets/a905d32d-8cd2-4848-a294-b447d1ea2da5)
 
--Type: Epic
+- Type: Epic
 
   ![Epic2](https://github.com/user-attachments/assets/64f28405-59c2-404c-b2af-35eca4ff1a86)
 
@@ -101,7 +101,7 @@ Y a continuación las añadimos en Sprint Backlog
 
 ## 2.3 Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS)
 
-En este apartado debemos añadir algunas tareas en in progress, otras review, y las más adelantadas en done, para que se vea el proceso que siguen las tareas en un proyecto.
+En este apartado debemos añadir algunas tareas en in progress, otras en review, y las más adelantadas en done, para que se vea el proceso que siguen las tareas en un proyecto.
 
   ![image](https://github.com/user-attachments/assets/3f983f86-7881-437c-ba09-9f83cbe373f1)
 
@@ -132,6 +132,13 @@ Filtradas por Topic:setup
 ![image](https://github.com/user-attachments/assets/c46e499a-f005-4962-81ba-23512c54c2e3)
 
 ## 2.7 Imagen de conversación en dos tareas
+
+En la tarea:
+![image](https://github.com/user-attachments/assets/8a829c99-4ea0-4ca3-9dbe-0a79222ec061)
+
+Y en la tarea: Manage accounts
+![image](https://github.com/user-attachments/assets/16de4afe-ad6e-49c8-9e7a-99fc9cd630b7)
+
 
 
 
