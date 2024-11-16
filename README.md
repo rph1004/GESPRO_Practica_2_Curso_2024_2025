@@ -72,8 +72,22 @@ Y después en Sprint Backlog
 ![image](https://github.com/user-attachments/assets/73d6d1c8-a2f2-4f42-ac31-1cf3e8d20c13)
 
 
+In progress
+![image](https://github.com/user-attachments/assets/7e744865-304a-4767-a707-9a74f7c7cd25)
 
 
+Algunos en progress y otros en review y otros en done
+![image](https://github.com/user-attachments/assets/3f983f86-7881-437c-ba09-9f83cbe373f1)
+
+1 er release done 
+![image](https://github.com/user-attachments/assets/4517455f-aa31-4210-bbbb-620f8b748115)
+
+Closed
+![image](https://github.com/user-attachments/assets/557cdd33-6ec3-4841-93b3-51c98c8aeb10)
+![image](https://github.com/user-attachments/assets/6e59784e-64da-4438-a99a-bbb5701f1949)
+
+desde issues
+![image](https://github.com/user-attachments/assets/a16b5ff0-be97-4e7c-b415-4bdc26b321e1)
 
 
 
